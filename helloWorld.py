@@ -1,2 +1,2 @@
 print("Hello, World")
-print("New branch 'feat' is created")
+print("New branch 'brch' is created")
